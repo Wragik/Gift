@@ -1,0 +1,4 @@
+﻿  Gift.cpp
+C:\Users\wardik\Desktop\program\Gift\Gift\Gift.cpp(53,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\wardik\Desktop\program\Gift\Gift\Gift.cpp(61,23): warning C4244: +=: преобразование "long double" в "int", возможна потеря данных
+  Gift.vcxproj -> C:\Users\wardik\Desktop\program\Gift\x64\Debug\Gift.exe
